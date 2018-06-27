@@ -1,0 +1,20 @@
+{
+  "name": "connectme",
+  "version": "1.0.0",
+  "description": "A simple project which knows about MongoDB and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danyrupes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4",
+    "mongoose": "^5.1.1",
+    "node": "^10.0.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
